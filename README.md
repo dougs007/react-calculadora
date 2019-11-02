@@ -6,7 +6,8 @@ na lib JS que vem sendo bastante utilizada.
 
 ### A calculadora
 
-(Img)[calc.jpeg]
+
+  ![Calc image](calc.jpeg)
 
 ### Build
 
